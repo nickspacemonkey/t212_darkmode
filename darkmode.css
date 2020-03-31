@@ -1,0 +1,21 @@
+body, html, tr, th{
+    background: #252525!important;
+    color: #fff!important;
+}
+
+div, a{
+    color: #fff!important;
+}
+
+.presence-users, .post-notice, .map{
+    background: #252525!important;
+    color: #fff!important;
+}
+
+blockquote, aside.quote .title{
+        background: #393939!important;    
+}
+
+.name {
+    color: #252525!important;
+}
