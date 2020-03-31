@@ -7,7 +7,7 @@ div, a{
     color: #fff!important;
 }
 
-.presence-users, .post-notice, .map{
+.presence-users, .post-notice, .map, .menu-panel.drop-down, .read, .primary-textual, .user-content, .item, .badge-contents{
     background: #252525!important;
     color: #fff!important;
 }
@@ -18,4 +18,8 @@ blockquote, aside.quote .title{
 
 .name {
     color: #252525!important;
+}
+
+.user-menu .quick-access-panel li span:first-child, .large-notification a span:first-child, .excerpt{
+    color: #fff!important;
 }
