@@ -7,7 +7,7 @@ div, a{
     color: #fff!important;
 }
 
-.presence-users, .post-notice, .map, .menu-panel.drop-down, .read, .primary-textual, .user-content, .item, .badge-contents, .reply-area{
+.presence-users, .post-notice, .map, .menu-panel.drop-down, .read, .primary-textual, .user-content, .item, .badge-contents, .reply-area, .modal{
     background: #252525!important;
     color: #fff!important;
 }
