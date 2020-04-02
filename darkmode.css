@@ -12,7 +12,7 @@ div, a{
     color: #fff!important;
 }
 
-blockquote, aside.quote .title{
+blockquote, aside.quote .title, .search-advanced-title, .search-advanced-filters{
         background: #393939!important;    
 }
 
