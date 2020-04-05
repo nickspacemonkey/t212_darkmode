@@ -16,11 +16,12 @@ blockquote, aside.quote .title, .search-advanced-title, .search-advanced-filters
         background: #393939!important;    
 }
 
-.name {
+.name, .mention{
     color: #252525!important;
 }
 
 .user-menu .quick-access-panel li span:first-child, .large-notification a span:first-child, .excerpt{
     color: #fff!important;
 }
+
 
